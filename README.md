@@ -54,8 +54,8 @@
 
 <p align="center">
 <a href="https://github.com/sheydayev">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berkansonmezay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berkansonmezay&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sheydayev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sheydayev&layout=compact&langs_count=8&theme=algolia"/>
 
 
 </div> 
@@ -65,7 +65,7 @@
  </a>
  
   <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=berkansonmezay&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=sheydayev&&style=flat-square" align="center" />
 </div> 
 </p>
 
