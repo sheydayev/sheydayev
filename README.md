@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Berkan</h1>
+<h1 align="center">Hi 👋, I'm Sinan</h1>
 
 
-<h2 align="center"> Automation Software Test Engineer from Turkey</h2>
+<h2 align="center"> Automation Software Test Engineer </h2>
 
 
-![berkansonmezay snake gif](https://github.com/berkansonmezay/berkansonmezay/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sheydayev/sheydayev/blob/output/github-contribution-grid-snake.gif)
  
    -📫 How to reach me **sonmezayberkan@gmail.com**
 
@@ -69,4 +69,4 @@
 </div> 
 </p>
 
-![snake gif](https://github.com/sheydayev/sheydayev/blob/output/github-contribution-grid-snake.gif)
+
